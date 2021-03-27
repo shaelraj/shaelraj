@@ -5,9 +5,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;Software engineer with 7+ years experience in designing,development and maintenance of web applications as a FULL-stack developer..\
+🎓 &nbsp; Skills: Java, Spring Boot, JPA, Hibernate, Struts, Angular,JSF, Oracle, Apache tomcat, JBoss EAP.\
 🎓 &nbsp;I'm Computer Science graduate from Gandhi Institute of Engineering and Technology.\
-🌱 &nbsp;I'm on track for learning more about new technology.\
-🎓 &nbsp; Java, Spring Boot, JPA, Hibernate, Struts, Angular,JSF, Oracle, Apache tomcat, JBoss EAP.\
 ✍️ &nbsp;In my free time, I pursue learning new technology and playing games.\
 ✉️ &nbsp;You can shoot me an email at shael.dhn88@gmail.com! I'll try to respond as soon as I can.\
 
