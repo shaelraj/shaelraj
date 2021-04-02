@@ -9,7 +9,7 @@
 🎓 &nbsp; Skills: Java, Spring Boot, JPA, Hibernate, Struts, Angular,JSF, Oracle, Apache tomcat, JBoss EAP.\
 🎓 &nbsp;I'm Computer Science graduate from Gandhi Institute of Engineering and Technology.\
 ✍️ &nbsp;In my free time, I pursue learning new technology and playing games.\
-✉️ &nbsp;You can shoot me an email at shael.dhn88@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at shael.dhn88@gmail.com! I'll try to respond as soon as I can.
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -25,7 +25,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
